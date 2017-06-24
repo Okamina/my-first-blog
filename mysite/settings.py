@@ -25,7 +25,7 @@ SECRET_KEY = '@n$c6m@s(nwmgjx2cv95a=uj7hf&6fsplzy@!n5@0iupq)7!kl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rozetka1.pythonanywhere.com']
 
 
 # Application definition
